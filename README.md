@@ -17,11 +17,11 @@ Allow user to tap on a movie poster and transition to a details screen with addi
 * allow users to read reviews of a selected movie.
 * allow users to mark a movie as a favorite in the details view by tapping a button(add favorite).
 
-![image](https://drive.google.com/file/d/13mKVvA0zsS8j1XHgBZt5KzNfxPo0K5qb/view?usp=sharing)
-![image](https://drive.google.com/file/d/1fa9_Ofj5ZnbAKQlqgxGpT1BKFiAJOdYZ/view?usp=sharing)
-![image](https://drive.google.com/file/d/1lgCCCdF10gnEkIGYXQSwAP12wFY7atOq/view?usp=sharing)
-![image](https://drive.google.com/file/d/1wz03PDOnYJazrJjk_qygWlFML65AJMAi/view?usp=sharing)
-![image](https://drive.google.com/file/d/1l6IHX0or3Hurnc1adVeRYVj2w4e0XxDf/view?usp=sharing)
+![](screenshot/Popular.png)
+![](screenshot/TopRated.png)
+![](screenshot/Details.png)
+![](screenshot/mDetails.png)
+![](screenshot/Favorite.png)
 
 ### Prerequisites
 
