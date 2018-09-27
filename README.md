@@ -7,12 +7,12 @@ Most of us can relate to kicking back on the couch and enjoying a movie with fri
 Present the user with a grid arrangement of movie posters upon launch.
 Allow user to change sort order via a setting:
 * The sort order can be by most popular or by highest-rated
-Allow user to tap on a movie poster and transition to a details screen with additional information such as:
-* original title
-* movie poster image thumbnail
-* A plot synopsis 
-* user rating 
-* release date
+* Allow user to tap on a movie poster and transition to a details screen with additional information such as:
+** original title
+** movie poster image thumbnail
+** A plot synopsis 
+** user rating 
+** release date
 * allow users to view and play trailers ( either in the youtube app or a web browser).
 * allow users to read reviews of a selected movie.
 * allow users to mark a movie as a favorite in the details view by tapping a button(add favorite).
